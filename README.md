@@ -8,19 +8,19 @@ Smash that ⭐ if you like it!
 
 ## Table of Contents
 
-[Nano Banana Introduction](#nano-banana-introduction)
+[🍌Nano Banana Introduction](#nano-banana-introduction)
 
-[Case Directory](#case-directory)
+[📖Case Directory](#case-directory)
 
-[Cases](#cases)
+[⚡️Cases](#%EF%B8%8Fcases)
 
-[Usage Tips](#usage-tips)
+[💡Usage Tips](#usage-tips)
 
-[Acknowledgments](#acknowledgments)
+[🙏Acknowledgments](#acknowledgments)
 
 ---
 
-## Nano Banana Introduction
+## 🍌Nano Banana Introduction
 
 Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image generation and editing model. This model can blend multiple images into a single image, maintain character consistency for rich storytelling, make targeted transformations using natural language, and leverage Gemini's world knowledge to generate and edit images.
 
@@ -40,7 +40,7 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ---
 
-## Case Directory
+## 📖Case Directory
 
 [Case 9: 3D Architecture Rendering (by @levelsio)](#case-9-3d-architecture-rendering-by-levelsio)
 
@@ -62,7 +62,7 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ---
 
-## Cases
+## ⚡️Cases
 
 ### Case 9: 3D Architecture Rendering (by @levelsio)  
 
@@ -238,13 +238,13 @@ Have these two characters fight using the pose from Figure 3.Add appropriate vis
 
 
 
-## Usage Tips
+## 💡Usage Tips
 
 1. [Nano Banana: The Ultimate AI Model for Image Generation and Editing in 2025](https://supermaker.ai/image/blog/nano-banana-the-ultimate-ai-model-for-image-generation-and-editing-in-2025/) by @SuperMaker
 2. [How to create lifelike action figures using nano bananas](https://supermaker.ai/image/blog/how-to-create-lifelike-action-figures-using-nano-bananas/) by @SuperMaker
 
 
-## Acknowledgments
+## 🙏Acknowledgments
 
 This case collection largely relies on creative configurations and brilliant use cases shared by the SuperMaker AI community. We express sincere gratitude to all case contributors.😊
 
