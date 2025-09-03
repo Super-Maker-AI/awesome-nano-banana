@@ -64,7 +64,9 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## Cases
 
-### Case 9: 3D Architecture Rendering (by @levelsio)
+### Case 9: 3D Architecture Rendering (by @levelsio)  
+
+[[**Try it Now**](https://supermaker.ai/image/nano-banana/)]
 
 [[**Original Link**](https://x.com/levelsio/status/1961238809460535669)]
 
