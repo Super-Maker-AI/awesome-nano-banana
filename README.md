@@ -35,7 +35,6 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ### Technical Specifications
 
-- **Pricing**: $30.00 per 1 million output tokens, with each image being 1290 output tokens ($0.039 per image)
 - **Latency**: Lower latency compared to other leading models
 - **Safety**: Includes SynthID digital watermark, allowing images to be identified as AI-generated or edited
 
