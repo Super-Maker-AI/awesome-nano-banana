@@ -43,6 +43,26 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## 📖Case Directory
 
+ [Case 25: Nano Banana Action Figure Generator (by @Supermaker AI)](#case-25-nano-banana-action-figure-generator-by-supermaker-ai)
+
+ [Case 24: AI Photo Color (by @Supermaker AI)](#case-24-ai-photo-color-by-supermaker-ai)
+
+ [Case 23: AI Photo Booth (by @Supermaker AI)](#case-23-ai-photo-booth-by-supermaker-ai)
+
+ [Case 22: AI Cosplay Generator (by @Supermaker AI)](#case-22-ai-cosplay-generator-by-supermaker-ai)
+
+ [Case 21: AI Sculpture Filter (by @Supermaker AI)](#case-21-ai-sculpture-filter-by-supermaker-ai)
+
+ [Case 20: Product Photography (by @Amira Zairi)](#case-20-product-photography-by-amira-zairi)
+
+ [Case 19: Charcoal Sketch (by @Amira Zairi)](#case-19-charcoal-sketch-by-amira-zairi)
+
+ [Case 18: Vintage Editorial Photography (by @Amira Zairi)](#case-18-vintage-editorial-photography-by-amira-zairi)
+
+ [Case 17: Translucent Fabrics (by @LudovicCreator)](#case-17-translucent-fabrics-by-ludoviccreator)
+
+ [Case 16: Pixel-art (by @Amira Zairi)](#case-16-pixel-art-by-amira-zairi)
+
  [Case 15: 3D Figure Printer (by @歸藏)](#case-15-3d-figure-printer--by-歸藏)
 
  [Case 14: Chinese Character Dance (by @歸藏)](#case-14-chinese-character-dance--by-歸藏)
@@ -76,6 +96,208 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 ---
 
 ## ⚡️Cases 
+
+
+### Case 25: Nano Banana Action Figure Generator (by @Supermaker AI)
+
+🎯 **Action Figure Creation & Collectibles**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-action-figure-generator/)]
+
+**Prompt**
+```yaml
+Use the nano-banana model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment.Place the figure on a computer desk, using a circular transparent acrylic basewithout any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
+```
+
+**Reference Image**
+
+![Nano Banana Action Figure Generator Example](https://static.supermaker.ai/files/cg0kkmttodc7.jpg)
+
+**Usage Instructions**
+- 🎯 Transform illustrations into realistic action figures
+- 📦 Perfect for collectibles and toy design visualization
+- 🖥️ Includes modeling process and packaging design
+
+### Case 24: AI Photo Color (by @Supermaker AI)
+
+🎨 **Photo Restoration & Colorization**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-photo-color/)]
+
+**Prompt**
+```yaml
+Colorize this black-and-white photograph with photorealistic, natural colors that strictly align with real-world color logic and the scene's context 
+Ensure colors blend seamlessly with the original photo's lighting and shadows—darker areas should have deeper, muted hues (not flat black), and highlighted areas should have softer, lighter tones (not harsh white). Avoid over-saturation, neon/unnatural shades, or color bleeding outside subject boundaries. Preserve the original photograph's texture (e.g., film grain, fine details of faces, fabric, or landscapes) to maintain authenticity, without distorting the subject's shape or details. The final colorized result should look organic, as if the photo was originally taken in color.
+```
+
+**Reference Image**
+
+![AI Photo Color Example](https://static.supermaker.ai/files/idbp3k9f8u21.png)
+
+**Usage Instructions**
+- 🎨 Restore vintage black-and-white photos with realistic colors
+- 📸 Perfect for historical photo restoration
+- ✨ Maintains original texture and authenticity
+
+### Case 23: AI Photo Booth (by @Supermaker AI)
+
+📸 **Portrait Variations & Photo Booth**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-photo-booth/)]
+
+**Prompt**
+```yaml
+Use this photo to make a 3*3 photo booth grid. Each photo should have a different pose and expression. No repetition allowed.
+```
+
+**Reference Image**
+
+![AI Photo Booth Example](https://static.supermaker.ai/files/4oprtblpxvs0.png)
+
+**Usage Instructions**
+- 📸 Create photo booth-style grids with varied poses
+- 🎭 Perfect for social media content and profile pictures
+- ✨ Each photo has unique pose and expression
+
+### Case 22: AI Cosplay Generator (by @Supermaker AI)
+
+🎭 **Cosplay & Character Recreation**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-cosplay-generator/)]
+
+**Prompt**
+```yaml
+Generate a highly detailed photo of a girl cosplaying this illustration, at Comiket. Exactly replicate the same pose, body posture, hand gestures, facial expression, and camera framing as in the original illustration. Keep the same angle, perspective, and composition, without any deviation
+```
+
+**Reference Image**
+
+![AI Cosplay Generator Example](https://static.supermaker.ai/files/xad48ox3c67b.jpeg)
+
+**Usage Instructions**
+- 🎭 Perfect for cosplay enthusiasts and character recreation
+- 📸 Maintains exact pose and composition from original
+- 🎪 Ideal for anime and manga character visualization
+
+### Case 21: AI Sculpture Filter (by @Supermaker AI)
+
+🗿 **Artistic Transformation & Sculpture**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-sculpture-filter/)]
+
+**Prompt**
+```yaml
+A photorealistic image of an ultra-detailed sculpture of the subject in image made of shining marble. The sculpture should display smooth and reflective marble surface, emphasizing its luster and artistic craftsmanship. The design is elegant, highlighting the beauty and depth of marble. The lighting in the image should enhance the sculpture's contours and textures, creating a visually stunning and mesmerizing
+```
+
+**Reference Image**
+
+![AI Sculpture Filter Example](https://static.supermaker.ai/files/0ec1py7ez4fh.png)
+
+**Usage Instructions**
+- 🗿 Transform any subject into elegant marble sculptures
+- ✨ Perfect for artistic projects and creative visualization
+- 💎 High-quality marble texture and lighting effects
+
+### Case 20: Product Photography (by @Amira Zairi)
+
+📦 **Commercial Product Photography**
+
+[[**Original Link**](https://x.com/azed_ai/status/1963557185239257577)]
+
+**Prompt**
+```yaml
+Studio shot of a [PRODUCT], elegantly positioned on a [background], soft ambient shadows, smooth gradient backdrop, high-key lighting, shallow depth of field, ultra-sharp focus on the subject, subtle reflections, minimal aesthetic, professional DSLR, premium commercial lighting setup, optimized for high-end product presentation
+```
+
+**Reference Image**
+
+![Product Photography Example](https://static.supermaker.ai/files/exun5naj9ola.png)
+
+**Usage Instructions**
+- 📸 Create professional product photography for e-commerce
+- 💼 Perfect for catalog and marketing materials
+- ✨ High-end commercial lighting and composition
+
+### Case 19: Charcoal Sketch (by @Amira Zairi)
+
+🎨 **Artistic Drawing & Sketching**
+
+[[**Original Link**](https://x.com/azed_ai/status/1963920359209738723)]
+
+**Prompt**
+```yaml
+A charcoal sketch of a [subject], raw and textured with expressive shading and bold linework. The background is filled with smudged gradients and sketchbook marks, giving it a gritty, unrefined elegance.
+```
+
+**Reference Image**
+
+![Charcoal Sketch Example](https://static.supermaker.ai/files/z06mml2thn6g.png)
+
+**Usage Instructions**
+- ✏️ Transform photos into expressive charcoal sketches
+- 🎨 Perfect for artistic projects and creative illustrations
+- 📝 Maintains raw, textured artistic feel
+
+### Case 18: Vintage Editorial Photography (by @Amira Zairi)
+
+📸 **Editorial & Fashion Photography**
+
+[[**Original Link**](https://x.com/azed_ai/status/1964358971118276628)]
+
+**Prompt**
+```yaml
+Cinematic portrait of [subject], [background], soft ambient lighting, warm earthy tones, nostalgic 1970s wardrobe, reflective mood, gentle film grain texture, shallow depth of field, vintage editorial photography style
+```
+
+**Reference Image**
+
+![Vintage Editorial Photography Example](https://static.supermaker.ai/files/3daj58vgveqd.png)
+
+**Usage Instructions**
+- 📰 Perfect for magazine-style editorial photography
+- 🎬 Creates cinematic portraits with vintage aesthetics
+- 📸 Ideal for fashion and lifestyle photography
+
+### Case 17: Translucent Fabrics (by @LudovicCreator)
+
+👗 **Fashion & Artistic Photography**
+
+[[**Original Link**](https://x.com/LudovicCreator/status/1964391919154245735)]
+
+**Prompt**
+```yaml
+Mysterious [COLOR] and [COLOR] vision of a [SUBJECT] veiled in translucent fabrics
+```
+
+**Reference Image**
+
+![Translucent Fabrics Example](https://static.supermaker.ai/files/y83iwrmf0769.png)
+
+**Usage Instructions**
+- 🌟 Create ethereal and mysterious fashion photography
+- 👗 Perfect for artistic portraits and fashion editorials
+- ✨ Translucent fabrics add depth and visual interest
+
+### Case 16: Pixel-art (by @Amira Zairi)
+
+🎮 **Retro Gaming & Pixel Art**
+
+[[**Original Link**](https://x.com/azed_ai/status/1964644344415318316)]
+
+**Prompt**
+```yaml
+Pixel-art scene of a [subject], viewed through a simulated lens, [background], retro game overlay aesthetic, chunky pixel textures, vibrant limited color palette of [color1] and [color2], HUD interface elements, low-resolution charm, subtle CRT screen distortion, nostalgic arcade vibe, stylized as an 8-bit game screenshot
+```
+
+**Reference Image**
+
+![Pixel-art Example](https://static.supermaker.ai/files/i3wnu9qptnv8.png)
+
+**Usage Instructions**
+- 🎮 Create nostalgic pixel-art scenes with retro gaming aesthetics
+- 🎨 Perfect for indie game development and retro art projects
+- 📺 Includes CRT distortion effects for authentic vintage feel
 
 ### Case 15: 3D Figure Printer  (by @歸藏)  
 
@@ -391,9 +613,8 @@ Have these two characters fight using the pose from Figure 3.Add appropriate vis
 - 🎯 Precise control over multiple character fighting poses
 - 🎬 Perfect for creating dynamic action scenes
 
+
 ---
-
-
 
 ## 💡Usage Tips
 
