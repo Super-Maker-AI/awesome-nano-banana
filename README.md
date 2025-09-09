@@ -634,3 +634,5 @@ Special thanks to the following users who shared their inspiring works ✨:
 
 If your work is included here and you wish to change the attribution or remove it, please contact us anytime.✉️
 
+## Friends
+[[**All In One AI Image Generator**](https://chatimg.ai)]
