@@ -43,7 +43,29 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## 📖Case Directory
 
- [Case 25: Nano Banana Action Figure Generator (by @Supermaker AI)](#case-25-nano-banana-action-figure-generator-by-supermaker-ai)
+ [Case 35: AI Group Photo (by @Supermaker AI)](#case-35-ai-group-photo-by-supermaker-ai)
+
+ [Case 34: AI Pose Generator (by @Supermaker AI)](#case-34-ai-pose-generator-by-supermaker-ai)
+
+ [Case 33: Children's Drawing (by @Supermaker AI)](#case-33-childrens-drawing-by-supermaker-ai)
+
+ [Case 32: AI Baby Filter (by @Supermaker AI)](#case-32-ai-baby-filter-by-supermaker-ai)
+
+ [Case 31: Google Map Transform (by @Supermaker AI)](#case-31-google-map-transform-by-supermaker-ai)
+
+ [Case 30: AI 3D Model Generator (by @Supermaker AI)](#case-30-ai-3d-model-generator-by-supermaker-ai)
+
+ [Case 29: Food Photography (by @Amira Zairi)](#case-29-food-photography-by-amira-zairi)
+
+ [Case 28: Paint-style Outline (by @Amira Zairi)](#case-28-paint-style-outline-by-amira-zairi)
+
+ [Case 27: Vintage Comic Book (by @Amira Zairi)](#case-27-vintage-comic-book-by-amira-zairi)
+
+ [Case 26: Cinematic Shots (by @Amira Zairi)](#case-26-cinematic-shots-by-amira-zairi)
+
+ [Case 26: Nano Banana Action Figure Generator (by @Supermaker AI)](#case-26-nano-banana-action-figure-generator-by-supermaker-ai)
+
+ [Case 25: Concept Sheet (by @Amira Zairi)](#case-25-concept-sheet-by-amira-zairi)
 
  [Case 24: AI Photo Color (by @Supermaker AI)](#case-24-ai-photo-color-by-supermaker-ai)
 
@@ -98,7 +120,234 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 ## ⚡️Cases 
 
 
-### Case 25: Nano Banana Action Figure Generator (by @Supermaker AI)
+### Case 35: AI Group Photo (by @Supermaker AI)
+
+👥 **Group Photo Generation & Social Media**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-group-photo/)]
+
+**Prompt**
+```yaml
+Using photo 1 as a reference, this realistic selfie shows the people in photos 2 and 3 posing naturally, set against the backdrop of photo 2. The scene is filled with natural light, and the people's expressions are relaxed and natural, exuding a candid, everyday atmosphere. In the background, architectural details are clearly visible, and the lighting is warm and natural.
+```
+
+**Reference Image**
+
+![AI Group Photo Example](https://static.supermaker.ai/files/e6isd2go2f8i.png)
+
+**Usage Instructions**
+- 👥 Create realistic group photos with multiple people
+- 📸 Perfect for social media and family photos
+- ✨ Natural lighting and candid expressions
+
+### Case 34: AI Pose Generator (by @Supermaker AI)
+
+🎭 **Pose Transfer & Character Animation**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-pose-generator/)]
+
+**Prompt**
+```yaml
+Please adjust the pose of the character in Figure 1 to exactly match the pose of the character in Figure 2. Key requirements are as follows:
+Do not modify any facial features of the character from Figure 1, including but not limited to facial shape, eyes, nose, mouth, eyebrows, and hairstyle—these must remain 100% consistent with the original.
+Ensure the final effect is smooth and natural: avoid awkward proportions, rigid transitions, or unnatural postural details. The character should look like it naturally adopts Figure 2's pose
+```
+
+**Reference Image**
+
+![AI Pose Generator Example](https://static.supermaker.ai/files/sxohxh6lag3v.png)
+
+**Usage Instructions**
+- 🎭 Transfer poses between characters while maintaining facial features
+- 🎨 Perfect for character animation and pose reference
+- ✨ Natural and smooth pose transitions
+
+### Case 33: Children's Drawing (by @Supermaker AI)
+
+🎨 **Child-like Art Style & Illustration**
+
+[[**Try it Now**](https://supermaker.ai/image/childrens-drawing/)]
+
+**Prompt**
+```yaml
+Generate a minimalist children's drawing based on an uploaded photo. The requirements are as follows: a minimalist children's drawing-style [Subject], using thick white lines and a glowing outline. The background is softly blurred by [Environmental Details]. Floating elements like [Floating Details] add a touch of whimsy. A full-body perspective creates a warm, minimalist aesthetic.
+```
+
+**Reference Image**
+
+![Children's Drawing Example](https://static.supermaker.ai/files/tgmccb1oqkwa.png)
+
+**Usage Instructions**
+- 🎨 Transform photos into charming children's drawing style
+- ✨ Perfect for children's books and educational materials
+- 🌟 Warm and whimsical aesthetic with glowing outlines
+
+### Case 32: AI Baby Filter (by @Supermaker AI)
+
+👶 **Age Transformation & Baby Version**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-baby-filter/)]
+
+**Prompt**
+```yaml
+Based on the uploaded single-person reference photo, transform the person in the image into an adorable, realistic infant/baby version. Key requirements are as follows:
+Clothing Consistency: Strictly retain the exact same style, design, color, fabric texture, and detailed elements (such as collars, cuffs, buttons, patterns, or logos) of the clothing worn by the original person. Ensure the clothing fits the baby's body proportionally—neither too loose nor too tight—to maintain a natural, cute look.
+Professional Characteristic Reflection: Authentically incorporate the original person's professional traits into the baby's image.
+nsure these professional details are age-appropriate for an infant—small, delicate, and not overwhelming the baby's cute appearance.
+Facial & Overall Coherence: Keep the baby's facial features recognizable as a "younger, infant version" of the original person (e.g., similar eye shape, eyebrow curve, or facial contour), while maintaining natural baby-like traits (chubby cheeks, soft skin, innocent expression). The background style should align with the original photo to preserve context.
+Realism & Aesthetics: Avoid exaggerated or unnatural elements; ensure the baby's posture, clothing fit, and professional details look realistic and visually pleasing (warm, cute tone)
+```
+
+**Reference Image**
+
+![AI Baby Filter Example](https://static.supermaker.ai/files/yxws2ozj2jlf.png)
+
+**Usage Instructions**
+- 👶 Transform adults into adorable baby versions
+- 👔 Maintains clothing consistency and professional traits
+- ✨ Perfect for family photos and creative projects
+
+### Case 31: Google Map Transform (by @Supermaker AI)
+
+🗺️ **Map Visualization & Street View**
+
+[[**Try it Now**](https://supermaker.ai/image/google-map-transform/)]
+
+**Prompt**
+```yaml
+draw what the red arrow sees
+```
+
+**Reference Image**
+
+![Google Map Transform Example](https://static.supermaker.ai/files/kx5wtnlgg4vs.png)
+
+**Usage Instructions**
+- 🗺️ Transform Google Maps into artistic visualizations
+- 🎨 Perfect for travel blogs and location-based content
+- ✨ Creative interpretation of street views
+
+### Case 30: AI 3D Model Generator (by @Supermaker AI)
+
+🏗️ **3D Modeling & Isometric Design**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-3d-model-generator/)]
+
+**Prompt**
+```yaml
+Convert this photo of a building into isometric tiles, similar in style to the first 3D rendered image
+```
+
+**Reference Image**
+
+![AI 3D Model Generator Example](https://static.supermaker.ai/files/grjyyhz84acr.png)
+
+**Usage Instructions**
+- 🏗️ Convert photos into 3D isometric models
+- 🎮 Perfect for game development and architectural visualization
+- ✨ Professional 3D rendering quality
+
+### Case 29: Food Photography (by @Amira Zairi)
+
+🍽️ **Culinary Photography & Food Styling**
+
+[[**Original Link**](https://x.com/azed_ai/status/1966819210694365266)]
+
+**Prompt**
+```yaml
+Minimalist paint-style outline of a [subject], flowing black lines, clean composition, simple yet dramatic pose, fluid movement captured with elegant negative space, expressive and graceful silhouette
+```
+
+**Reference Image**
+
+![Food Photography Example](https://static.supermaker.ai/files/s92lzlewezgc.png)
+
+**Usage Instructions**
+- 🍽️ Create stunning food photography with artistic flair
+- 📸 Perfect for restaurant menus and food blogs
+- ✨ Professional culinary styling and presentation
+
+### Case 28: Paint-style Outline (by @Amira Zairi)
+
+🎨 **Artistic Outline & Minimalist Design**
+
+[[**Original Link**](https://x.com/azed_ai/status/1966456851400396957)]
+
+**Prompt**
+```yaml
+Minimalist paint-style outline of a [subject], flowing black lines, clean composition, simple yet dramatic pose, fluid movement captured with elegant negative space, expressive and graceful silhouette
+```
+
+**Reference Image**
+
+![Paint-style Outline Example](https://static.supermaker.ai/files/04gwt8vwo66r.png)
+
+**Usage Instructions**
+- 🎨 Create elegant minimalist outlines with flowing lines
+- ✨ Perfect for logo design and artistic illustrations
+- 🖌️ Expressive and graceful silhouette design
+
+### Case 27: Vintage Comic Book (by @Amira Zairi)
+
+📚 **Comic Book Art & Retro Illustration**
+
+[[**Original Link**](https://x.com/azed_ai/status/1967180553553330306)]
+
+**Prompt**
+```yaml
+Urban street battle at dusk, armored hero confronting a towering monster, shattered glass and sparks flying | cinematic action realism | dynamic lighting, dramatic shadows, lens flare | realistic textures on rubble, heroic poses, motion blur, epic wide-angle composition
+```
+
+**Reference Image**
+
+![Vintage Comic Book Example](https://static.supermaker.ai/files/efnmnqew2qb2.png)
+
+**Usage Instructions**
+- 📚 Create vintage comic book style illustrations
+- 🦸 Perfect for superhero and action scene artwork
+- ✨ Dynamic lighting and dramatic composition
+
+### Case 26: Cinematic Shots (by @Amira Zairi)
+
+🎬 **Cinematic Photography & Action Scenes**
+
+[[**Original Link**](https://x.com/azed_ai/status/1967227146864390325)]
+
+**Prompt**
+```yaml
+Urban street battle at dusk, armored hero confronting a towering monster, shattered glass and sparks flying | cinematic action realism | dynamic lighting, dramatic shadows, lens flare | realistic textures on rubble, heroic poses, motion blur, epic wide-angle composition
+```
+
+**Reference Image**
+
+![Cinematic Shots Example](https://static.supermaker.ai/files/1pv1mdc69xkx.png)
+
+**Usage Instructions**
+- 🎬 Create epic cinematic action scenes
+- 🦸 Perfect for movie posters and action photography
+- ✨ Dynamic lighting and dramatic composition
+
+### Case 25: Concept Sheet (by @Amira Zairi)
+
+📋 **Character Design & Concept Art**
+
+[[**Original Link**](https://x.com/azed_ai/status/1965006732247417046)]
+
+**Prompt**
+```yaml
+A concept sheet for a [character], detailed with front, back, and side views, including close-up sketches of facial features and accessories, annotated with design notes and labeled components, drawn in blueprint style with glowing trim in [color1] and base structure in [color2], presented on a clean white background
+```
+
+**Reference Image**
+
+![Concept Sheet Example](https://static.supermaker.ai/files/yw1dstmwd9s5.png)
+
+**Usage Instructions**
+- 📋 Create professional character concept sheets
+- 🎨 Perfect for game development and character design
+- ✨ Blueprint style with detailed annotations
+
+### Case 26: Nano Banana Action Figure Generator (by @Supermaker AI)
 
 🎯 **Action Figure Creation & Collectibles**
 
