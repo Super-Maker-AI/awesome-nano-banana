@@ -43,6 +43,26 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## 📖Case Directory
 
+ [Case 45: AI Black And White Portrait Generator (by @Supermaker AI)](#case-45-ai-black-and-white-portrait-generator-by-supermaker-ai)
+
+ [Case 44: Gemini Miniatur AI (by @Supermaker AI)](#case-44-gemini-miniatur-ai-by-supermaker-ai)
+
+ [Case 43: Collectible Figure (by @Nano Banana Labs)](#case-43-collectible-figure-by-nano-banana-labs)
+
+ [Case 42: Thoughts on a Moving Train (by @Heisenberg)](#case-42-thoughts-on-a-moving-train-by-heisenberg)
+
+ [Case 41: Nightscape Photography (by @Heisenberg)](#case-41-nightscape-photography-by-heisenberg)
+
+ [Case 40: Spotlight Photography (by @enitandev)](#case-40-spotlight-photography-by-enitandev)
+
+ [Case 39: Modern Advertisement (by @Heisenberg)](#case-39-modern-advertisement-by-heisenberg)
+
+ [Case 38: Cinematic Portrait (by @Heisenberg)](#case-38-cinematic-portrait-by-heisenberg)
+
+ [Case 37: Hyper-realistic Statue (by @Nano Banana Labs)](#case-37-hyper-realistic-statue-by-nano-banana-labs)
+
+ [Case 36: Polaroid Photography (by @Heisenberg)](#case-36-polaroid-photography-by-heisenberg)
+
  [Case 35: AI Group Photo (by @Supermaker AI)](#case-35-ai-group-photo-by-supermaker-ai)
 
  [Case 34: AI Pose Generator (by @Supermaker AI)](#case-34-ai-pose-generator-by-supermaker-ai)
@@ -119,6 +139,208 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## ⚡️Cases 
 
+
+### Case 45: AI Black And White Portrait Generator (by @Supermaker AI)
+
+📸 **Black & White Portrait & Fine Art Photography**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-black-and-white-portrait-generator/)]
+
+**Prompt**
+```yaml
+Uploaded photos are transformed into high-resolution black-and-white portrait artworks in a documentary-style, fine-art photography style. The background features a soft gradient, transitioning from mid-gray to near-white, creating a sense of depth and a sense of silence. The subtle film grain lends the image a tactile, analog-like softness, reminiscent of classic black-and-white photography.
+The subject's blurred yet striking face emerges from the shadows, not in a traditional pose, but rather as if captured in a moment of reflection or breath. His face, contoured by light, evokes a sense of mystery, intimacy, and elegance. His features are refined and profound, radiating a melancholic and poetic beauty without seeming artificial.
+A gentle, directional light, softly diffused, caresses the curve of his cheek or creates a glint in his eye—this is the emotional core of the image. The rest, occupied by ample negative space, is deliberately kept simple, allowing the image to breathe freely. There are no words or logos in the image—only a play of light and shadow, interwoven with emotion. The overall atmosphere is abstract yet deeply human, like a fleeting glance or a memory half-awake: intimate, timeless, and wistfully beautiful.
+```
+
+**Reference Image**
+
+![AI Black And White Portrait Generator Example](https://static.supermaker.ai/files/pb5t0tkbx4o0.png)
+
+**Usage Instructions**
+- 📸 Transform photos into elegant black-and-white fine art portraits
+- 🎨 Perfect for documentary-style photography and artistic expression
+- ✨ Creates intimate, timeless, and wistfully beautiful results
+
+### Case 44: Gemini Miniatur AI (by @Supermaker AI)
+
+🎯 **Action Figure Creation & Collectibles**
+
+[[**Try it Now**](https://supermaker.ai/image/gemini-miniatur-ai/)]
+
+**Prompt**
+```yaml
+Use the nano-banana model to create a 1/7 scale commercialized figure of the character in the illustration, in a realistic style and environment.Place the figure on a computer desk, using a circular transparent acrylic basewithout any text.On the computer screen, display the ZBrush modeling process of the figure.Next to the computer screen, place a BANDAl-style toy packaging box printedwith the original artwork.
+```
+
+**Reference Image**
+
+![Gemini Miniatur AI Example](https://static.supermaker.ai/files/46louikjq3zk.png)
+
+**Usage Instructions**
+- 🎯 Transform illustrations into realistic action figures
+- 📦 Perfect for collectibles and toy design visualization
+- 🖥️ Includes modeling process and packaging design
+
+### Case 43: Collectible Figure (by @Nano Banana Labs)
+
+🎯 **Collectible Design & Miniature Diorama**
+
+[[**Original Link**](https://x.com/NanoBanana_labs/status/1967191346017673334)]
+
+**Prompt**
+```yaml
+A 1/7 scale commercialized collectible figure of the character from the photo, crafted in a highly realistic style. The figure is placed in a detailed beach environment with sand, seashells, and gentle ocean waves. The entire toy display is enclosed inside a clear souvenir glass bottle, giving it a premium miniature diorama look, with realistic lighting and shadows.
+```
+
+**Reference Image**
+
+![Collectible Figure Example](https://static.supermaker.ai/files/ohslaachzj85.png)
+
+**Usage Instructions**
+- 🎯 Transform characters into realistic collectible figures
+- 📦 Perfect for miniature diorama and collectible design
+- 🏖️ Includes detailed environmental settings and premium presentation
+
+### Case 42: Thoughts on a Moving Train (by @Heisenberg)
+
+🚂 **Cinematic Photography & Cyberpunk Atmosphere**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1967638190338216196)]
+
+**Prompt**
+```yaml
+A cinematic portrait of a young man/woman sitting by a train window at night, wearing a dark hoodie. Neon city lights reflect on the glass, creating colorful bokeh in shades of orange, pink, and blue. His/her face is softly illuminated by the glow. High detail, filmic lighting, cyberpunk atmosphere, shallow depth of field.
+```
+
+**Reference Image**
+
+![Thoughts on a Moving Train Example](https://static.supermaker.ai/files/fbmqtlm0wro0.png)
+
+**Usage Instructions**
+- 🚂 Create cinematic portraits with cyberpunk atmosphere
+- 🌃 Perfect for moody, introspective photography
+- ✨ Features neon reflections and shallow depth of field
+
+### Case 41: Nightscape Photography (by @Heisenberg)
+
+🌃 **Urban Photography & Night Scenes**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1967154329737199939)]
+
+**Prompt**
+```yaml
+A low-angle, wide-shot photograph of a stylish young man standing confidently on a city street at dusk or night. He is looking directly at the camera with a neutral but engaging expression. He is wearing a simple, slightly oversized t-shirt and loose-fitting cargo pants, with sneakers. The lighting is dramatic, with bright, colorful neon signs and illuminated buildings blurred in the background, suggesting motion and urban energy. The perspective makes his appear tall and powerful against the cityscape. The overall mood is modern, urban, and slightly edgy, with a cinematic feel due to the dynamic composition and lighting.
+```
+
+**Reference Image**
+
+![Nightscape Photography Example](https://static.supermaker.ai/files/f9yyxqph9es9.png)
+
+**Usage Instructions**
+- 🌃 Create dramatic urban night photography
+- 🏙️ Perfect for modern, edgy street photography
+- ✨ Features neon lighting and cinematic composition
+
+### Case 40: Spotlight Photography (by @enitandev)
+
+📸 **Celebrity Photography & Red Carpet Style**
+
+[[**Original Link**](https://x.com/enitandev/status/1967633417899528670)]
+
+**Prompt**
+```yaml
+Ultra-realistic candid photo of the person in the reference image, wearing a sharp black suit with a white shirt, standing in the middle of a large excited crowd. Fans and photographers surround him, holding up cameras and smartphones, capturing his every move. The atmosphere is lively and chaotic, filled with cheering and flashing cameras, creating an authentic celebrity red-carpet vibe. The photo is taken slightly from above eye-level, capturing the crowd density and the central figure waving naturally. Natural daylight, sharp details, realistic skin tones, authentic expressions, cinematic realism.
+```
+
+**Reference Image**
+
+![Spotlight Photography Example](https://static.supermaker.ai/files/cof9uj4v2dl9.png)
+
+**Usage Instructions**
+- 📸 Create authentic celebrity red-carpet photography
+- 🌟 Perfect for paparazzi-style and event photography
+- ✨ Features realistic crowd scenes and authentic expressions
+
+### Case 39: Modern Advertisement (by @Heisenberg)
+
+📢 **Commercial Photography & Brand Advertising**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1968136193083896089)]
+
+**Prompt**
+```yaml
+A striking, modern advertisement featuring a handsome male (my face 100% match), with short, stylish hair and glasses, sitting comfortably in a vibrant blue, plush, rounded armchair. He is dressed in a contemporary, athletic-inspired outfit: bright blue pants and a matching blue and yellow patterned long-sleeved top. His sneakers are a light neutral color, and he wears white socks. He is looking directly at the viewer with a friendly, confident smile. The background is a clean, gradient blue, with a large, stylized white letter "H" subtly placed behind him. There are also faint, placeholder text elements in the top left and top right corners of the image, characteristic of a magazine or product advertisement.
+```
+
+**Reference Image**
+
+![Modern Advertisement Example](https://static.supermaker.ai/files/vgjbfvwqr45o.png)
+
+**Usage Instructions**
+- 📢 Create professional modern advertisements
+- 🎨 Perfect for brand marketing and commercial photography
+- ✨ Features clean backgrounds and confident expressions
+
+### Case 38: Cinematic Portrait (by @Heisenberg)
+
+🎬 **Portrait Photography & Dramatic Lighting**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1967836760752451635)]
+
+**Prompt**
+```yaml
+Create a vertical potrait shot in 1080x1920 format using the exact same face features, characterized by stark cinematic lighting and intense contrast. Captured in a slightly low, upward-facing angle that dramatized the subject's jawline and neck, the composition evokes quite dominance and sculptural elegance. The background is a deep, saturated crimson red, creating a bold visual clash with the model's luminous skin and dark wardrobe.
+```
+
+**Reference Image**
+
+![Cinematic Portrait Example](https://static.supermaker.ai/files/hkcg01d0zv0g.png)
+
+**Usage Instructions**
+- 🎬 Create dramatic cinematic portraits with intense lighting
+- 📸 Perfect for fashion photography and artistic portraits
+- ✨ Features bold color contrasts and sculptural elegance
+
+### Case 37: Hyper-realistic Statue (by @Nano Banana Labs)
+
+🗿 **Monument Design & Urban Sculpture**
+
+[[**Original Link**](https://x.com/NanoBanana_labs/status/1966164117531811928)]
+
+**Prompt**
+```yaml
+Create a giant hyper-realistic statue based on the given photo, keeping the original face exactly the same without changes. The statue stands tall in the middle of a roundabout in Dhaka, near a famous historical landmark. The statue is still under construction, surrounded by scaffolding, with many construction workers in yellow helmets and orange vests climbing, welding, and working on it. Parts of the statue's body are still exposed metal framework, while other sections are already detailed and finished. The background shows the realistic atmosphere of VARANASI CITY: crowded streets with colorful rickshaws, packed buses, and small cars circling the roundabout. Street vendors with tea stalls, fruit carts, and colorful umbrellas line the roadside. Shop signs, big billboards, and messy hanging electric wires crisscross above the streets, creating the typical Dhaka city vibe. The bright daytime sky shines above, with tropical trees and a bustling, lively atmosphere. Style: photorealistic, vibrant, and full of life
+```
+
+**Reference Image**
+
+![Hyper-realistic Statue Example](https://static.supermaker.ai/files/83w681qrrk28.png)
+
+**Usage Instructions**
+- 🗿 Transform portraits into monumental urban sculptures
+- 🏗️ Perfect for architectural visualization and city planning
+- ✨ Features realistic construction scenes and urban atmosphere
+
+### Case 36: Polaroid Photography (by @Heisenberg)
+
+📷 **Vintage Photography & Instant Camera Style**
+
+[[**Original Link**](https://x.com/azed_ai/status/1965006732247417046)]
+
+**Prompt**
+```yaml
+Take a picture with a Polaroid camera. The photo should look like a normal photo, without any clear subject or props. The photo should have a slight blur a a consistent light source. Such as a flash from a dark room, spread throughout the photo. Do not change the faces. Replace the background behind the two people with a white curtain. (With the guy hugging girl) Change outfits with matching couple.
+```
+
+**Reference Image**
+
+![Polaroid Photography Example](https://static.supermaker.ai/files/66cnnwtmbmnb.png)
+
+**Usage Instructions**
+- 📷 Create authentic Polaroid-style instant photography
+- 💕 Perfect for couple photos and vintage aesthetics
+- ✨ Features characteristic flash lighting and slight blur effects
 
 ### Case 35: AI Group Photo (by @Supermaker AI)
 
