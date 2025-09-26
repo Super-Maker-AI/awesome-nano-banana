@@ -43,6 +43,26 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## 📖Case Directory
 
+ [Case 55: AI Cat Image Generator (by @Supermaker AI)](#case-55-ai-cat-image-generator-by-supermaker-ai)
+
+ [Case 54: Raincoat Effect (by @Supermaker AI)](#case-54-raincoat-effect-by-supermaker-ai)
+
+ [Case 53: Private Photography (by @Josh_Gier)](#case-53-private-photography-by-josh_gier)
+
+ [Case 52: Close-up Cinematic Portrait (by @saniaspeaks_)](#case-52-close-up-cinematic-portrait-by-saniaspeaks_)
+
+ [Case 51: Cinematic Street Vibes (by @Sheldon056)](#case-51-cinematic-street-vibes-by-sheldon056)
+
+ [Case 50: Visual Shock (by @Sheldon056)](#case-50-visual-shock-by-sheldon056)
+
+ [Case 49: Origami Characters (by @TechieBySA)](#case-49-origami-characters-by-techiebysa)
+
+ [Case 48: Vintage Recipe Illustration (by @icreatelife)](#case-48-vintage-recipe-illustration-by-icreatelife)
+
+ [Case 47: Textured Embroidered (by @Artedeingenio)](#case-47-textured-embroidered-by-artedeingenio)
+
+ [Case 46: Food Art Portrait (by @AleRVG)](#case-46-food-art-portrait-by-alervg)
+
  [Case 45: AI Black And White Portrait Generator (by @Supermaker AI)](#case-45-ai-black-and-white-portrait-generator-by-supermaker-ai)
 
  [Case 44: Gemini Miniatur AI (by @Supermaker AI)](#case-44-gemini-miniatur-ai-by-supermaker-ai)
@@ -139,6 +159,233 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## ⚡️Cases 
 
+### Case 55: AI Cat Image Generator (by @Supermaker AI)
+
+🐱 **Pet Photography & Virtual Pet Adoption**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-cat-image-generator/)]
+
+**Prompt**
+```yaml
+Based on user-uploaded photos of a scene, a hyper-realistic, lifelike cat is generated, allowing it to blend naturally into the existing environment and meet the user's "Cloud Cat Adoption" needs.
+
+Cats must meet the following criteria:
+
+Realistic Details: Rendering naturally soft fur textures (including subtle color variations and lighting), clear facial features (bright, expressive eyes, delicate whiskers, and realistic noses/mouths), and smooth, natural body contours (no cartoonish or stiff elements).
+
+Seamless Flow: Ensure the cat appears to exist naturally in the scene by adding subtle shadows underneath the cat (aligning with the scene's lighting direction) and avoiding any obvious "cut-and-paste" edges. If the scene contains textures (e.g., fabric, wood, grass), the cat's contact with these surfaces should appear realistic (e.g., fur gently clinging to a soft sofa).
+
+The end result should make users feel like they are seeing a real cat in the uploaded scene
+```
+
+**Reference Image**
+
+![AI Cat Image Generator Example](https://static.supermaker.ai/files/pi8sc4xhq8r3.png)
+
+**Usage Instructions**
+- 🐱 Generate hyper-realistic cats that blend naturally into any scene
+- 🏠 Perfect for virtual pet adoption and home decoration
+- ✨ Seamless integration with realistic shadows and textures
+
+### Case 54: Raincoat Effect (by @Supermaker AI)
+
+🌧️ **Weather Effects & Atmospheric Photography**
+
+[[**Try it Now**](https://supermaker.ai/image/raincoat-effect/)]
+
+**Prompt**
+```yaml
+Transform the uploaded single-person photo into a realistic close-up portrait with the following key elements:
+The person must be wearing a well-fitted black raincoat (with visible texture details like fabric wrinkles, possible slight water absorption effects, and natural collar/hem shapes).
+The scene must depict a heavy downpour—show distinct, dense rain streaks falling around the person, splashes of rain on the ground (if lower body is visible), and subtle water droplets on the raincoat surface, hair, or shoulders to enhance authenticity.
+Maintain the original person's core facial features, posture, and basic appearance (avoid altering key identifiers like facial structure, hairstyle length/color, or obvious accessories) while integrating them naturally into the rainy environment.
+Adjust the lighting to match a heavy rain scenario: soft, diffused ambient light (simulate overcast weather), possible subtle highlights on wet surfaces (e.g., raincoat fabric, skin), and avoid harsh shadows.
+Ensure the close-up framing focuses on the upper body (at least from shoulders up, or extending to mid-torso if appropriate) to highlight the raincoat details and the interaction between the person and the rain.
+Keep the overall tone realistic and immersive—avoid overly stylized or cartoonish effects; prioritize natural rain dynamics and realistic material textures of the raincoat.
+```
+
+**Reference Image**
+
+![Raincoat Effect Example](https://static.supermaker.ai/files/4z1vbiinaw16.png)
+
+**Usage Instructions**
+- 🌧️ Transform photos into dramatic rainy weather scenes
+- 📸 Perfect for atmospheric and moody photography
+- ✨ Realistic rain effects with authentic raincoat textures
+
+### Case 53: Private Photography (by @Josh_Gier)
+
+📸 **Fashion Editorial & Artistic Photography**
+
+[[**Original Link**](https://x.com/Josh_Gier/status/1970852197563847160)]
+
+**Prompt**
+```yaml
+A slender adult woman with long dark hair stands in an apartment centered between a window (left) and wall (right). She wears an opaque blue lace bra and matching briefs.
+
+Pose: 3/4 angle to camera, weight on left leg, right knee crossed, head tilted down, right hand at hip, left arm relaxed. Calm expression.
+
+Full body shot (head to toes visible), vertical format. Camera slightly above eye level, 55mm lens.
+Window backlight creates rim lighting on shoulders and body. Moody, low-key lighting.
+
+The entire photo is BLACK AND WHITE except the bra and briefs which stay BLUE (use blue shades: #1E3A8A, #2563EB, #60A5FA). Everything else monochrome.
+
+Fashion editorial style, photorealistic quality
+```
+
+**Reference Image**
+
+![Private Photography Example](https://static.supermaker.ai/files/asg80ll1oby6.png)
+
+**Usage Instructions**
+- 📸 Create artistic fashion editorial photography
+- 🎨 Perfect for selective color effects and moody lighting
+- ✨ Professional fashion photography with dramatic lighting
+
+### Case 52: Close-up Cinematic Portrait (by @saniaspeaks_)
+
+🌸 **Portrait Photography & Floral Aesthetics**
+
+[[**Original Link**](https://x.com/saniaspeaks_/status/1971165515520553424)]
+
+**Prompt**
+```yaml
+Using the uploaded picture exactly face
+A super close-up cinematic portrait of a young woman framed by small, delicate pale pink and pastel blue flowers with light greenery, arranged sparsely so they are not too crowded. Sunlight casts soft shadows of petals and leaves across her face. She has slightly tousled dark hair falling around her shoulders.
+```
+
+**Reference Image**
+
+![Close-up Cinematic Portrait Example](https://static.supermaker.ai/files/ct5g6oxbwj63.png)
+
+**Usage Instructions**
+- 🌸 Create intimate close-up portraits with floral elements
+- 📸 Perfect for romantic and artistic photography
+- ✨ Soft natural lighting with delicate flower arrangements
+
+### Case 51: Cinematic Street Vibes (by @Sheldon056)
+
+🌃 **Urban Photography & Street Aesthetics**
+
+[[**Original Link**](https://x.com/Sheldon056/status/1971193674282512816)]
+
+**Prompt**
+```yaml
+A cinematic low-angle photo of a young man as uploaded image on a rain-soaked flyover bench at dusk. He wears a colorblock denim jacket over a yellow hoodie, khaki cargo pants, and high-top sneakers. Sharp 8K focus on him, with blurred foreground. Behind, a vibrant cityscape glows with neon lights, reflections in puddles, mist, and bokeh trails from passing cars. Moody color grading merges warm streetlights with cool neon glows for dramatic depth.
+```
+
+**Reference Image**
+
+![Cinematic Street Vibes Example](https://static.supermaker.ai/files/2s2mdaaf0lh0.png)
+
+**Usage Instructions**
+- 🌃 Create cinematic urban street photography
+- 🎬 Perfect for moody and atmospheric city scenes
+- ✨ Dynamic lighting with neon reflections and bokeh effects
+
+### Case 50: Visual Shock (by @Sheldon056)
+
+🌄 **Landscape Photography & Contemplative Mood**
+
+[[**Original Link**](https://x.com/Sheldon056/status/1971055708398657777)]
+
+**Prompt**
+```yaml
+A stylish man with dark hair and sunglasses, wearing a black short-sleeved button-up shirt and light-colored pants, stands outdoors. He is looking upwards with a contemplative expression. The background features rolling green hills under a cloudy sky. The lighting is natural, highlighting the textures of his clothing and the landscape. The photo should capture a serene and slightly dramatic mood, face should match with the attached image
+```
+
+**Reference Image**
+
+![Visual Shock Example](https://static.supermaker.ai/files/nc93779xevy0.png)
+
+**Usage Instructions**
+- 🌄 Create contemplative outdoor portraits
+- 📸 Perfect for lifestyle and nature photography
+- ✨ Natural lighting with dramatic landscape backgrounds
+
+### Case 49: Origami Characters (by @TechieBySA)
+
+📄 **Paper Art & Geometric Design**
+
+[[**Original Link**](https://x.com/TechieBySA/status/1971178202593886538)]
+
+**Prompt**
+```yaml
+A hyper-detailed origami version of [SUBJECT], folded from high-quality paper with crisp edges and realistic paper texture. Intricate folds capture its iconic shape and features in simplified geometric form. Placed on a clean studio surface with soft shadows. Minimalist collectible art style, photorealistic. 1080x1080 square
+```
+
+**Reference Image**
+
+![Origami Characters Example](https://static.supermaker.ai/files/h00wotxee0rd.png)
+
+**Usage Instructions**
+- 📄 Transform any subject into detailed origami art
+- 🎨 Perfect for geometric and minimalist design
+- ✨ Realistic paper textures with clean studio presentation
+
+### Case 48: Vintage Recipe Illustration (by @icreatelife)
+
+📖 **Culinary Art & Recipe Design**
+
+[[**Original Link**](https://x.com/icreatelife/status/1969932454325612830)]
+
+**Prompt**
+```yaml
+Turn this ramen into a cute recipe page with illustrations in the style of a vintage cookbook that was hand-drawn.  A carefully drawn ingredients with labels, measures, and implements like bowls, whisks, or spoons should surround the composition's focal point.  To create a homey, nostalgic vibe, use textured shading, warm pastel colors, and fine, ink-like outlines.  Add recipe writing in the handwritten manner, including the ingredients and directions organically into the layout.  Make sure the page has an artistic and educational tone, combining the beauty of colorful illustrations with a cookbook aesthetic.
+```
+
+**Reference Image**
+
+![Vintage Recipe Illustration Example](https://static.supermaker.ai/files/yh6lz3go8ow0.png)
+
+**Usage Instructions**
+- 📖 Create charming vintage-style recipe illustrations
+- 🍜 Perfect for cookbook design and culinary content
+- ✨ Hand-drawn aesthetic with warm, nostalgic colors
+
+### Case 47: Textured Embroidered (by @Artedeingenio)
+
+🧵 **Textile Art & Embroidery Design**
+
+[[**Original Link**](https://x.com/Artedeingenio/status/1969789512822804897)]
+
+**Prompt**
+```yaml
+A whimsical embroidered illustration of a little girl with pigtails wearing a red dress, outlined with stitched black threads, filled with colorful fabric textures, childlike proportions, warm and playful mood, textile embroidery art --ar 1:1 --raw --p
+```
+
+**Reference Image**
+
+![Textured Embroidered Example](https://static.supermaker.ai/files/ueigwj7d03ul.png)
+
+**Usage Instructions**
+- 🧵 Create whimsical embroidered illustrations
+- 👗 Perfect for textile art and children's book illustrations
+- ✨ Colorful fabric textures with playful, warm mood
+
+### Case 46: Food Art Portrait (by @AleRVG)
+
+🍰 **Conceptual Food Art & Surreal Photography**
+
+[[**Original Link**](https://x.com/AleRVG/status/1969145551846363567)]
+
+**Prompt**
+```yaml
+Photorealistic conceptual food art portrait, a minimalist representation of a [SITE OF THE HOUSE] recreated entirely with [TYPE OF FOOD]. The main structure is built from [MAIN INGREDIENTS], with details such as [KEY ELEMENTS] made from [SECONDARY INGREDIENTS]. Optional features include [ADDITIONAL OBJECTS OR FURNITURE] created from [EXTRA INGREDIENTS].
+
+Set against a [COLOR] background to emphasize the surreal food sculpture. Bright soft studio lighting, evenly diffused, casting subtle natural shadows that highlight the textures of [FOOD TEXTURES]. Fine atmospheric detail enhance realism.
+
+Captured with a Canon EOS 5D, 85mm f/1.8 lens, shallow depth of field focusing on the cake-bed sculpture, crisp detail with soft falloff in the background. Composition framed at tabletop eye-level, medium close-up, perfectly centered. Clean high-resolution food photography style, vibrant natural colors, editorial dessert photography aesthetic
+```
+
+**Reference Image**
+
+![Food Art Portrait Example](https://static.supermaker.ai/files/zz67y36vn7qj.png)
+
+**Usage Instructions**
+- 🍰 Create surreal food art sculptures
+- 🏠 Perfect for conceptual photography and food styling
+- ✨ Professional food photography with artistic presentation
 
 ### Case 45: AI Black And White Portrait Generator (by @Supermaker AI)
 
