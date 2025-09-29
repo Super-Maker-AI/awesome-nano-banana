@@ -43,6 +43,26 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 
 ## 📖Case Directory
 
+ [Case 65: Natural-looking Photoshoot (by @Kerroudjm)](#case-65-natural-looking-photoshoot-by-kerroudjm)
+
+ [Case 64: Northern Lights Product (by @rovvmut_)](#case-64-northern-lights-product-by-rovvmut_)
+
+ [Case 63: Honor on the Football Field (by @rovvmut_)](#case-63-honor-on-the-football-field-by-rovvmut_)
+
+ [Case 62: Pokemon Master (by @rovvmut_)](#case-62-pokemon-master-by-rovvmut_)
+
+ [Case 61: Neon-powered Portraits (by @Arminn_Ai)](#case-61-neon-powered-portraits-by-arminn_ai)
+
+ [Case 60: Origami Food Art (by @TechieBySA)](#case-60-origami-food-art-by-techiebysa)
+
+ [Case 59: Pixelized Food (by @TechieBySA)](#case-59-pixelized-food-by-techiebysa)
+
+ [Case 58: Superhero Juice Boxes (by @TechieBySA)](#case-58-superhero-juice-boxes-by-techiebysa)
+
+ [Case 57: Vintage Technical Illustration (by @icreatelife)](#case-57-vintage-technical-illustration-by-icreatelife)
+
+ [Case 56: Superhero Plush Toys (by @TechieBySA)](#case-56-superhero-plush-toys-by-techiebysa)
+
  [Case 55: AI Cat Image Generator (by @Supermaker AI)](#case-55-ai-cat-image-generator-by-supermaker-ai)
 
  [Case 54: Raincoat Effect (by @Supermaker AI)](#case-54-raincoat-effect-by-supermaker-ai)
@@ -158,6 +178,210 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 ---
 
 ## ⚡️Cases 
+
+### Case 65: Natural-looking Photoshoot (by @Kerroudjm)
+
+📸 **Product Photography & Editorial Style**
+
+[[**Original Link**](https://x.com/Kerroudjm/status/1971586126248133068)]
+
+**Prompt**
+```yaml
+A high-end editorial photo of a [IMAGE UPLOADED] placed flat on a [YOUR SURFACE], captured from a direct top-down view. The surface is gently disturbed to suggest recent motion or interaction. The front of the product is fully visible and properly oriented upright. The area around the product is intentionally left open to optionally place [YOUR ELEMENTS] that visually enhance the scene. Natural sunlight from the upper left casts warm, realistic shadows. 3D realism, luxury product photography, shallow depth of field, 1:1 format.
+```
+
+**Reference Image**
+
+![Natural-looking Photoshoot Example](https://static.bananaimg.ai/files/p1atvahwhn0b.png)
+
+**Usage Instructions**
+- 📸 Create high-end editorial product photography
+- 🎨 Perfect for luxury brand marketing and e-commerce
+- ✨ Natural lighting with realistic shadows and 3D realism
+
+### Case 64: Northern Lights Product (by @rovvmut_)
+
+🌌 **Cinematic Product Photography & Atmospheric Design**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1972539227763343816)]
+
+**Prompt**
+```yaml
+Design a hyperrealistic cinematic poster showcasing the [PRODUCT] as the centerpiece. The device on a sleek obsidian pedestal at the edge of a tranquil reflective lake. Surrounding it are glowing bioluminescent plants and tall reeds swaying gently in the breeze, giving the scene an ethereal, futuristic feel. In the background, jagged cliffs rise dramatically, their edges kissed by a glowing aurora in the night sky. Use moody, atmospheric lighting with cool blues and purples contrasted by warm golden highlights reflecting off the device. Capture the scene from a slightly low angle to emphasize grandeur, with a shallow depth of field to sharpen the [PRODUCT] while softening the surrounding mist. Add subtle lens flares, crisp polished textures, and a cinematic vignette for a premium editorial aesthetic. Write the brand name and a tagline as well.
+```
+
+**Reference Image**
+
+![Northern Lights Product Example](https://static.supermaker.ai/files/s49ajkh6m8lh.png)
+
+**Usage Instructions**
+- 🌌 Create cinematic product posters with atmospheric lighting
+- 🎬 Perfect for premium brand campaigns and tech product launches
+- ✨ Features aurora effects and bioluminescent elements
+
+### Case 63: Honor on the Football Field (by @rovvmut_)
+
+⚽ **Sports Photography & Celebrity Integration**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1972230870204559861)]
+
+**Prompt**
+```yaml
+A handsome man in the uploaded image (100% matching face) is standing in the middle of Real Madrid stadium, surrounded by a full crowd and bright green grass. He is wearing the Real Madrid jersey and dark blue jeans, smiling while wrapping his arm around Cristiano Ronaldo beside him. They both are holding the same Real Madrid's jersey, showing Ronaldo's name and number 7 on the back. The camera composition is eye-level, with nighttime stadium lighting and spotlights. The style is high-quality realism.
+```
+
+**Reference Image**
+
+![Honor on the Football Field Example](https://static.supermaker.ai/files/pwy2scfckvgt.png)
+
+**Usage Instructions**
+- ⚽ Create realistic sports photography with celebrity integration
+- 🏟️ Perfect for fan content and sports marketing
+- ✨ Maintains facial features while adding authentic stadium atmosphere
+
+### Case 62: Pokemon Master (by @rovvmut_)
+
+⚡ **Character Design & Fantasy Photography**
+
+[[**Original Link**](https://x.com/rovvmut_/status/1971786519078948894)]
+
+**Prompt**
+```yaml
+Create a hyper-realistic editorial portrait of a person, generated from the provided image (same face 100%, same hairstyle, expression preserved). The subject stands confidently on a reflective glossy floor wearing a coordinated bright yellow and crimson outfit (hooded jacket or sweatshirt and tailored joggers) with lightning bolt-inspired linework and subtle embroidered electric motifs running along sleeves, chest and pant seams. Matching crimson and yellow sneakers complete the look. Beside the subject stands a large Pikachu-like creature, scaled to be equal to or taller than the person, with realistic textured fur and a vibrant palette of electric yellows and deep crimson accents that echo the clothing. Background is a moody electric yellow to deep crimson gradient that enhances the vibrant palette; both subject and creature are clearly reflected on the floor. Lighting uses dramatic warm key light and sculpting rim light to emphasize skin, fur and fabric detail, cinematic shallow depth of field, slight film grain for editorial grit, photoreal creature integration, ultra-detailed 8K quality.
+```
+
+**Reference Image**
+
+![Pokemon Master Example](https://static.supermaker.ai/files/huud7xvd93sr.png)
+
+**Usage Instructions**
+- ⚡ Create fantasy character portraits with realistic creature integration
+- 🎮 Perfect for gaming content and character cosplay
+- ✨ Maintains facial features while adding detailed creature companions
+
+### Case 61: Neon-powered Portraits (by @Arminn_Ai)
+
+💫 **Cyberpunk Photography & Neon Aesthetics**
+
+[[**Original Link**](https://x.com/Arminn_Ai/status/1972303775466500371)]
+
+**Prompt**
+```yaml
+A futuristic, neon-lit portrait of [SUBJECT_DESCRIPTION], crouching confidently in a moody, [COLOR]-toned room. 
+They hold a large, glowing [NEON_OBJECT_SHAPE] that cuts through the center of the image, casting bright [COLOR] reflections across their skin, outfit, and surroundings.
+
+They wear [OUTFIT_DESCRIPTION], blending [STYLE_REFERENCE] with cyberpunk aesthetics. 
+The entire scene is bathed in electric [PRIMARY_COLOR] and deep [SECONDARY_COLOR] lighting, creating a high-contrast, edgy, and surreal atmosphere with a sci-fi fashion vibe.
+```
+
+**Reference Image**
+
+![Neon-powered Portraits Example](https://static.supermaker.ai/files/785778v7j5vn.png)
+
+**Usage Instructions**
+- 💫 Create futuristic cyberpunk portraits with neon lighting
+- 🌃 Perfect for sci-fi content and edgy fashion photography
+- ✨ High-contrast lighting with electric color schemes
+
+### Case 60: Origami Food Art (by @TechieBySA)
+
+🍱 **Food Art & Paper Craft Design**
+
+[[**Original Link**](https://x.com/TechieBySA/status/1971510072795902100)]
+
+**Prompt**
+```yaml
+A hyper-detailed origami [FOOD ITEM] folded from realistic colored paper with visible creases and paper texture. Complex geometric folds capture the food's shape, layers, and distinctive features. Placed on clean surface with soft shadows, minimalist food art photography style. 1080x1080 square
+```
+
+**Reference Image**
+
+![Origami Food Art Example](https://static.supermaker.ai/files/bp9zmiv53ad9.png)
+
+**Usage Instructions**
+- 🍱 Transform food items into detailed origami art
+- 🎨 Perfect for creative food photography and art projects
+- ✨ Realistic paper textures with geometric folding details
+
+### Case 59: Pixelized Food (by @TechieBySA)
+
+🎮 **Food Photography & Digital Art**
+
+[[**Original Link**](https://x.com/TechieBySA/status/1968967345239396842)]
+
+**Prompt**
+```yaml
+Minimalist food photograph, [1080x1080] – a single [FOOD] rests on a light, matte surface and is captured mid-transformation into a 3D pixelized form: one half remains intact while the other organically fragments into large, floating cubes that drift outward, each cube revealing the object's texture, ingredients, and colors. Studio lighting with soft, realistic shadows, shallow depth of field, tasteful perspective and composition, hyperrealistic detail, stylish geometric abstraction, subtle motion blur on the cubes, high resolution, cinematic close-up
+```
+
+**Reference Image**
+
+![Pixelized Food Example](https://static.supermaker.ai/files/cxnujj28ynav.png)
+
+**Usage Instructions**
+- 🎮 Create dynamic food photography with pixelization effects
+- 📸 Perfect for modern food blogs and digital art projects
+- ✨ Combines realism with geometric digital transformation
+
+### Case 58: Superhero Juice Boxes (by @TechieBySA)
+
+🥤 **Product Design & Packaging**
+
+[[**Original Link**](https://x.com/TechieBySA/status/1971902843813876205)]
+
+**Prompt**
+```yaml
+A playful, photorealistic render of a juice box packaging featuring the [SUPERHERO]. The carton is glossy with condensation droplets and a plastic straw attached. Bright, minimal background for a clean product-shot feel. Crisp details in typography, colors true to brand identity. Studio commercial photography aesthetic. 1080x1080 square
+```
+
+**Reference Image**
+
+![Superhero Juice Boxes Example](https://static.supermaker.ai/files/sm872ape6e2r.png)
+
+**Usage Instructions**
+- 🥤 Create realistic product packaging with character branding
+- 📦 Perfect for food packaging design and marketing
+- ✨ Professional commercial photography with brand consistency
+
+### Case 57: Vintage Technical Illustration (by @icreatelife)
+
+📐 **Technical Design & Vintage Aesthetics**
+
+[[**Original Link**](https://x.com/icreatelife/status/1972420689807479229)]
+
+**Prompt**
+```yaml
+A vintage technical illustration poster of [OBJECT], [NUMBER] different views of the object. Panel 1 is a side profile. Panel 2 is a top-down view. Panel 3 is a detailed close-up of [OBJECT]. Panel 4 is a clean cross-section. The style is that of [YEAR] product catalog, with bold lines, a simple [COLOR 1] and [COLOR 2] color scheme, and clear labels on a textured, [COLOR 3] background
+```
+
+**Reference Image**
+
+![Vintage Technical Illustration Example](https://static.supermaker.ai/files/qncfz5kv3t48.png)
+
+**Usage Instructions**
+- 📐 Create vintage-style technical illustrations and blueprints
+- 🎨 Perfect for product catalogs and instructional materials
+- ✨ Classic design aesthetic with clear technical details
+
+### Case 56: Superhero Plush Toys (by @TechieBySA)
+
+🧸 **Toy Design & Collectibles**
+
+[[**Original Link**](https://x.com/TechieBySA/status/1971540403431391558)]
+
+**Prompt**
+```yaml
+A soft, high-quality plush toy of a [SUPERHERO], with an oversized head, small body, and stubby limbs. Made of fuzzy fabric with embroidered facial features, natural colors, and expressive details. The toy is sitting or standing against a neutral background, centered in full view. Soft studio lighting, even shadows, photorealistic textures, collectible plush style. 1080x1080 square
+```
+
+**Reference Image**
+
+![Superhero Plush Toys Example](https://static.supermaker.ai/files/3mq91t69se9n.png)
+
+**Usage Instructions**
+- 🧸 Transform characters into adorable plush toy designs
+- 🎁 Perfect for collectible merchandise and toy design
+- ✨ Realistic fabric textures with cute, chibi proportions
 
 ### Case 55: AI Cat Image Generator (by @Supermaker AI)
 
