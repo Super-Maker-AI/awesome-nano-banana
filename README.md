@@ -2,7 +2,7 @@
 
 Awesome curated collection of Nano Banana strategies, use cases, and tutorials from the SuperMaker AI team. Discover a complete playbook to unlock the full potential of Nano Banana, from basic setups to complex integrations.
 
-Smash that ⭐ if you like it!
+Star that ⭐ if you like it!
 
 ---
 
