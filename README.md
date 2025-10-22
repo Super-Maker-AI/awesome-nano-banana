@@ -2,7 +2,7 @@
 
 Awesome curated collection of Nano Banana strategies, use cases, and tutorials from the SuperMaker AI team. Discover a complete playbook to unlock the full potential of Nano Banana, from basic setups to complex integrations.
 
-Star that ⭐ if you like it!
+Smash that ⭐ if you like it!
 
 ---
 
@@ -42,6 +42,26 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 ---
 
 ## 📖Case Directory
+
+ [Case 75: Tang Dynasty Style (by @歸藏)](#case-75-tang-dynasty-style-by-歸藏)
+
+ [Case 74: Luxury Ad Shot (by @AmirMushich)](#case-74-luxury-ad-shot-by-amirmushich)
+
+ [Case 73: Superhero Group Selfie (by @xmliisu)](#case-73-superhero-group-selfie-by-xmliisu)
+
+ [Case 72: Person's Statue (by @MehdiSharifi)](#case-72-persons-statue-by-mehdisharifi)
+
+ [Case 71: Large Fluffy Cloud (by @Arminn_Ai)](#case-71-large-fluffy-cloud-by-arminn_ai)
+
+ [Case 70: Seated in Style (by @Arminn_Ai)](#case-70-seated-in-style-by-arminn_ai)
+
+ [Case 69: Rectangular Photo Frame (by @Arminn_Ai)](#case-69-rectangular-photo-frame-by-arminn_ai)
+
+ [Case 68: AI Homeless Man (by @Supermaker AI)](#case-68-ai-homeless-man-by-supermaker-ai)
+
+ [Case 67: AI Ghostface Effect (by @Supermaker AI)](#case-67-ai-ghostface-effect-by-supermaker-ai)
+
+ [Case 66: Stick People Effect (by @Supermaker AI)](#case-66-stick-people-effect-by-supermaker-ai)
 
  [Case 65: Natural-looking Photoshoot (by @Kerroudjm)](#case-65-natural-looking-photoshoot-by-kerroudjm)
 
@@ -178,6 +198,268 @@ Nano Banana (Gemini 2.5 Flash Image) is Google's latest state-of-the-art image g
 ---
 
 ## ⚡️Cases 
+
+### Case 75: Tang Dynasty Style (by @歸藏)
+
+🏛️ **Historical Art & Cultural Photography**
+
+[[**Original Link**](https://x.com/op7418/status/1980296658878714022)]
+
+**Prompt**
+```yaml
+A Patrick Star wearing Tang Dynasty clothing is natural and realistic. It is a Northern Song Dynasty style oil painting with dark brown old version. It is high-definition and finely crafted. It is smooth, flexible and powerful, full of rhythm. The outline of the clothes is dense and well-arranged. The colors are elegant and good at using contrasting colors, which are rich and harmonious. He is wearing a Tang Dynasty hat.
+```
+
+**Reference Image**
+
+![Tang Dynasty Style Example](https://static.supermaker.ai/files/vdz1nj6mcuzc.png)
+
+**Usage Instructions**
+- 🏛️ Transform characters into Tang Dynasty historical art style
+- 🎨 Perfect for cultural content and historical character design
+- ✨ Elegant colors with rich and harmonious contrasting tones
+
+### Case 74: Luxury Ad Shot (by @AmirMushich)
+
+💎 **Commercial Photography & Product Advertising**
+
+[[**Original Link**](https://x.com/AmirMushich/status/1978703713800712273)]
+
+**Prompt**
+```yaml
+Frosted glass bottle; label planar: "First Rain".
+Shallow pool with crisp caustics.
+Natural crown from a falling lychee; transparent indigo ribbons; lychees some halved + eucalyptus sprigs ride arcs; base cluster partly submerged for refraction.
+Condensation 50% 1.2 mm.
+Light: sun leaf-gobo, silver rim 45°R, cool purple under-kicker, sky fill; clamp highs.
+Cam: FF 100 mm, f/8, 1/2000, ISO100. 8K; no warp/banding.
+```
+
+**Reference Image**
+
+![Luxury Ad Shot Example](https://static.supermaker.ai/files/2c5h2gqqvnu9.png)
+
+**Usage Instructions**
+- 💎 Create professional luxury product advertisements
+- 📸 Perfect for high-end brand campaigns and product launches
+- ✨ Features realistic lighting, condensation, and premium aesthetics
+
+### Case 73: Superhero Group Selfie (by @xmliisu)
+
+🦸 **Celebrity Integration & Group Photography**
+
+[[**Original Link**](https://x.com/xmliisu/status/1980161909828526514)]
+
+**Prompt**
+```yaml
+A ultra realistic group selfie, center is the person from the attached image (uploaded image facial details), wearing a fitted black shirt and ripped jeans, holding an iPhone for the selfie. Around are Chris Hemsworth as Thor, Gal Gadot as Wonder Woman, Scarlett Johansson as Black Widow, Mark Ruffalo as Hulk, Henry Cavill as Superman, RDJ in full armor all hugging, smiling, posing casually like close friends. Fun, joyful mood, bright daylight, cinematic quality, natural look, high detail.
+```
+
+**Reference Image**
+
+![Superhero Group Selfie Example](https://static.supermaker.ai/files/pk80zrz0wt22.png)
+
+**Usage Instructions**
+- 🦸 Create realistic group selfies with celebrity superheroes
+- 📱 Perfect for fan content and social media posts
+- ✨ Maintains facial features while adding authentic celebrity interactions
+
+### Case 72: Person's Statue (by @MehdiSharifi)
+
+🗿 **Monumental Art & Urban Sculpture**
+
+[[**Original Link**](https://x.com/_MehdiSharifi_/status/1978602601626193971)]
+
+**Prompt**
+```yaml
+A high-angle drone photograph of a massive, hyperrealistic statue of [SUBJECT]. The statue is in the middle of a town roundabout and is currently under construction, surrounded by intricate scaffolding, large cranes, and several construction workers. The background features a scenic town nestled against [BACKGROUND]. The lighting is bright, natural daylight, creating soft shadows. The image should be a highly detailed, photorealistic, 8K resolution, vertical shot. 1080×1080 resolution.
+```
+
+**Reference Image**
+
+![Person's Statue Example](https://static.supermaker.ai/files/ieruued8gt1k.png)
+
+**Usage Instructions**
+- 🗿 Transform portraits into monumental urban sculptures
+- 🏗️ Perfect for architectural visualization and city planning
+- ✨ Features realistic construction scenes and urban atmosphere
+
+### Case 71: Large Fluffy Cloud (by @Arminn_Ai)
+
+☁️ **Surreal Photography & Fantasy Art**
+
+[[**Original Link**](https://x.com/Arminn_Ai/status/1977068472895975559)]
+
+**Prompt**
+```yaml
+A cinematic studio photoshoot of a single [CHARACTER], 
+comfortably reclining in a large fluffy cloud placed directly on the ground.  
+The cloud is soft, voluminous, and vividly colored in [CLOUD_COLOR], 
+appearing like a natural cushion made of mist and cotton.  
+
+The [CHARACTER_DESCRIPTION] is lying relaxed inside the cloud, 
+as if sitting in a cozy armchair — legs slightly crossed, body leaned back, expression calm and peaceful.  
+
+The entire subject (person + cloud) is perfectly centered in the frame, 
+fully visible from head to toe.  
+The background is a clean studio environment with a smooth gradient in [COLOR], evenly lit, with no visible edges or props.  
+
+Lighting: soft cinematic studio lighting, diffused from multiple angles, creating smooth shadows and gentle highlights on the cloud texture. The atmosphere feels dreamy, surreal, and relaxing — like a fantasy portrait blending fashion and dreamlike comfort.
+
+Camera setup: full-body shot, eye-level angle. Mood: calm, elegant, imaginative, and ultra-detailed.
+```
+
+**Reference Image**
+
+![Large Fluffy Cloud Example](https://static.supermaker.ai/files/dlg1ftca2jv5.png)
+
+**Usage Instructions**
+- ☁️ Create surreal fantasy portraits with cloud seating
+- 🎨 Perfect for dreamy and imaginative photography
+- ✨ Features soft cinematic lighting and dreamlike atmosphere
+
+### Case 70: Seated in Style (by @Arminn_Ai)
+
+📦 **Geometric Design & Studio Photography**
+
+[[**Original Link**](https://x.com/Arminn_Ai/status/1978586631155130640)]
+
+**Prompt**
+```yaml
+A hyper-realistic full-body studio portrait of [CHARACTER_DESCRIPTION]. The character is seated on a setup made of five large cubic objects of [OBJECT_TYPE_AND_MATERIAL], arranged in a compact and balanced structure.
+
+• Two cubes are placed tightly side by side beneath the character, forming a stable elevated seat — high enough that their feet hang naturally above the studio floor without touching.  
+• Three additional cubes are stacked vertically right beside the seat, perfectly aligned and touching — forming a side column slightly above waist level, where the character rests one forearm casually on the top cube.
+
+All cubes share identical dimensions and physically realistic volume, precise proportions, sharp edges, and real surface contact (no gaps or floating). Their material behavior under light is fully realistic, showing natural reflections, soft highlights, and subtle light falloff across surfaces.
+
+Lighting: soft, neutral cinematic studio lighting with smooth global diffusion and balanced contrast, no harsh shadows.
+
+Background: solid [STUDIO_COLOR] backdrop with a subtle gradient tone.  Floor: polished studio surface with a soft natural reflection of the cubes and the character.
+
+Mood: clean, balanced, and visually elegant — focused on geometry, material, and composition.
+
+Camera: full-body 3/4 studio shot from a slightly elevated angle to emphasize the cube geometry and the character's posture. 
+
+All materials are physically realistic  rendered with cinematic precision. Texture: ultra-detailedc, realistic reflections, material roughness, and soft light transitions rendered in photorealistic quality.
+```
+
+**Reference Image**
+
+![Seated in Style Example](https://static.supermaker.ai/files/wv0hxxjw9324.png)
+
+**Usage Instructions**
+- 📦 Create elegant geometric studio portraits
+- 🎨 Perfect for minimalist and architectural photography
+- ✨ Features realistic material physics and clean composition
+
+### Case 69: Rectangular Photo Frame (by @Arminn_Ai)
+
+🖼️ **Fashion Photography & Luxury Editorial**
+
+[[**Original Link**](https://x.com/Arminn_Ai/status/1980726673302585630)]
+
+**Prompt**
+```yaml
+A luxurious high-fashion portrait of [CHARACTER DESCRIPTION] sitting gracefully on the inner lower edge of a large ornate rectangular picture frame, subtly suspended slightly above the floor by short hooks/chains at the top edge. The frame is perfectly level and floating with a visible gap from the floor. The entire scene follows a refined [COLOR THEME] monochromatic palette.
+
+Frame:
+• Ornate Baroque / Rococo rectangular frame
+• Painted in [FRAME COLOR & FINISH] to match or tastefully contrast the palette
+
+Environment:
+• Background: elegant studio wall with classic molded paneling in [COLOR], harmonized with the chromatic theme
+• Floor: slightly reflective surface in [FLOOR COLOR], same tone family for cohesive luxury aesthetics
+
+Lighting:
+• High-key cinematic fashion lighting
+• Soft diffused glow on the subject and frame
+• Gentle rim-light for clean silhouette separation
+
+Camera:
+• Symmetrical centered full-body portrait
+• Clean editorial fashion composition
+• 8K ultra-detailed premium campaign quality
+
+Style tags:
+monochromatic | ornate suspended frame | cinematic studio fashion | luxury editorial aesthetic
+```
+
+**Reference Image**
+
+![Rectangular Photo Frame Example](https://static.supermaker.ai/files/39xih3sehwb1.png)
+
+**Usage Instructions**
+- 🖼️ Create luxury fashion portraits with ornate frames
+- 👗 Perfect for high-end editorial and campaign photography
+- ✨ Features monochromatic palette and cinematic lighting
+
+### Case 68: AI Homeless Man (by @Supermaker AI)
+
+🏠 **Character Integration & Social Commentary**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-homeless-man/)]
+
+**Prompt**
+```yaml
+Adding a homeless Filipino man to this image, with his dirty, tramp-like appearance, makes him look like an intruder.
+```
+
+**Reference Image**
+
+![AI Homeless Man Example](https://static.supermaker.ai/files/vf5f2iouzhv4.png)
+
+**Usage Instructions**
+- 🏠 Add realistic homeless characters to existing scenes
+- 📸 Perfect for social commentary and documentary-style photography
+- ✨ Maintains scene authenticity while adding social elements
+
+### Case 67: AI Ghostface Effect (by @Supermaker AI)
+
+👻 **Horror Effects & Background Integration**
+
+[[**Try it Now**](https://supermaker.ai/image/ai-ghostface-effect/)]
+
+**Prompt**
+```yaml
+Perform non-destructive background editing on an existing personal photo: preserve the foreground subject(s) entirely unchanged—including their original posture, facial features, expressions, clothing, hairstyle, and all fine details—with zero alterations to their appearance or positioning. Only modify the background area to naturally integrate the iconic Ghostface character (from the Scream franchise), creating the illusion that Ghostface was part of the original scene (a 'hidden in the background' prank effect).
+Ghostface Details: Depict it with its classic, recognizable design—white mask with sharp black eye/ mouth details, full black hooded robe, and a subtle, menacing yet understated posture (e.g., standing partially obscured by background objects like walls/ furniture, leaning in from a corner, or standing a few steps behind the foreground subject(s) to avoid overshadowing them).
+Style: Emulate Hollywood horror movie aesthetics while ensuring visual consistency with the original photo:
+Match the original photo's lighting logic 
+
+Realism Requirements:
+
+Ensure Ghostface feels like a natural, unplanned part of the scene—like a hidden Easter egg in a horror movie—so the prank effect lies in others noticing it only after a second glance.
+```
+
+**Reference Image**
+
+![AI Ghostface Effect Example](https://static.supermaker.ai/files/gw5iygu4swhs.png)
+
+**Usage Instructions**
+- 👻 Add hidden Ghostface characters to personal photos
+- 🎭 Perfect for horror-themed pranks and Halloween content
+- ✨ Maintains original photo integrity while adding subtle horror elements
+
+### Case 66: Stick People Effect (by @Supermaker AI)
+
+🎨 **Educational Art & Character Design**
+
+[[**Try it Now**](https://supermaker.ai/image/stick-people-effect/)]
+
+**Prompt**
+```yaml
+A [STICKWOMAN / STICKMAN] character with a photorealistic 3D-rendered [FEMALE / MALE]  head is shown [DOING SOMETHING]. Created Using: digital chalkboard-style concept illustration with 3D head rendering, white chalk-like vector linework for body on textured [COLOR] surface, soft spotlight simulating classroom lighting, dynamic composition with exaggerated body language and joyful posture, slightly top-down camera perspective, subtle ambient shadows, clean background texture simulating real chalk residue, minimalistic educational aesthetic blended with character-driven visual storytelling
+```
+
+**Reference Image**
+
+![Stick People Effect Example](https://static.supermaker.ai/files/c1q0k4ai3x75.webp)
+
+**Usage Instructions**
+- 🎨 Create educational stick figure illustrations with realistic heads
+- 📚 Perfect for teaching materials and educational content
+- ✨ Combines 3D realism with chalkboard-style aesthetics
 
 ### Case 65: Natural-looking Photoshoot (by @Kerroudjm)
 
