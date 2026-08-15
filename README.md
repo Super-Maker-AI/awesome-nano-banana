@@ -1860,3 +1860,4 @@ If your work is included here and you wish to change the attribution or remove i
 
 ## Friends
 [**All In One AI Image Generator**](https://chatimg.ai)
+- [Emu](https://image.tinchak0207.xyz) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
