@@ -424,7 +424,7 @@ Adding a homeless Filipino man to this image, with his dirty, tramp-like appeara
 ```yaml
 Perform non-destructive background editing on an existing personal photo: preserve the foreground subject(s) entirely unchanged—including their original posture, facial features, expressions, clothing, hairstyle, and all fine details—with zero alterations to their appearance or positioning. Only modify the background area to naturally integrate the iconic Ghostface character (from the Scream franchise), creating the illusion that Ghostface was part of the original scene (a 'hidden in the background' prank effect).
 Ghostface Details: Depict it with its classic, recognizable design—white mask with sharp black eye/ mouth details, full black hooded robe, and a subtle, menacing yet understated posture (e.g., standing partially obscured by background objects like walls/ furniture, leaning in from a corner, or standing a few steps behind the foreground subject(s) to avoid overshadowing them).
-Style: Emulate Hollywood horror movie aesthetics while ensuring visual consistency with the original photo:
+Style: Eimulate Hollywood horror movie aesthetics while ensuring visual consistency with the original photo:
 Match the original photo's lighting logic 
 
 Realism Requirements:
@@ -1620,7 +1620,7 @@ Convert the photo of this building into a rounded, cute isometric tile 3D render
 
 **Prompt**
 ```yaml
-A high-resolution advertising photograph of a realistic, miniature [PRODUCT] held delicately between a person's thumb and index finger.  clean and white background, studio lighting, soft shadows. The hand is well-groomed, natural skin tone, and positioned to highlight the product's shape and details. The product appears extremely small but hyper-detailed and brand-accurate, centered in the frame with a shallow depth of field. Emulates luxury product photography and minimalist commercial style.
+A high-resolution advertising photograph of a realistic, miniature [PRODUCT] held delicately between a person's thumb and index finger.  clean and white background, studio lighting, soft shadows. The hand is well-groomed, natural skin tone, and positioned to highlight the product's shape and details. The product appears extremely small but hyper-detailed and brand-accurate, centered in the frame with a shallow depth of field. Eimulates luxury product photography and minimalist commercial style.
 ```
 
 **Reference Image**
@@ -1860,4 +1860,4 @@ If your work is included here and you wish to change the attribution or remove i
 
 ## Friends
 [**All In One AI Image Generator**](https://chatimg.ai)
-- [Emu](https://image.tinchak0207.xyz) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
+- [Eimu](https://eimu.art) - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required
